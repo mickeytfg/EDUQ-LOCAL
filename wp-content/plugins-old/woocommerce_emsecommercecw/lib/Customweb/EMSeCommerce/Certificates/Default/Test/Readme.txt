@@ -1,1 +1,0 @@
-Copy your Test API Certificates into this folder.

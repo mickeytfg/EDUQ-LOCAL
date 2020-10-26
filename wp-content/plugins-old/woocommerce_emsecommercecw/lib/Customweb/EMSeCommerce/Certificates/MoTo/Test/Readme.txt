@@ -1,1 +1,0 @@
-Copy your Test MoTo API Certificates into this folder
