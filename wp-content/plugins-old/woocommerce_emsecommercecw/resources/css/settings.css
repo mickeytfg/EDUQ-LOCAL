@@ -1,0 +1,96 @@
+.emsecommercecw-renewal {
+	margin-top: 5px;
+	margin-botton: 5px;
+}
+
+.emsecommercecw-transaction-table .emsecommercecw-details-row {
+	display: none;
+}
+
+.emsecommercecw-transaction-table .emsecommercecw-main-row .emsecommercecw-more-details-button {
+	cursor: pointer;
+}
+
+.emsecommercecw-transaction-table .emsecommercecw-main-row.active .emsecommercecw-more-details-button {
+	display: none;
+}
+
+.emsecommercecw-transaction-table .emsecommercecw-main-row.active td {
+	border-bottom-color: #f0f0f0;
+}
+
+.emsecommercecw-transaction-table .emsecommercecw-details-row.active {
+	display: table-row;
+}
+
+.emsecommercecw-transaction-table label {
+	float: none;
+	font-weight: normal;
+}
+
+.emsecommercecw-transaction-table .emsecommercecw-main-row .emsecommercecw-less-details-button {
+	display: none;
+	cursor: pointer;
+}
+
+.emsecommercecw-transaction-table .emsecommercecw-main-row.active .emsecommercecw-less-details-button {
+	display: inline-block;
+}
+
+.emsecommercecw-transaction-table .label-box {
+	float: left;
+	width: 380px;
+	margin-right: 75px;
+	padding: 3px;
+}
+
+.emsecommercecw-transaction-table .label-box .label-title {
+	width: 50%;
+	font-weight: bold;
+	float: left;
+}
+
+.emsecommercecw-transaction-table .label-box .label-value {
+	width: 50%;
+	float: right;
+}
+
+.emsecommercecw-box-labels {
+	overflow: auto;
+	width: 100%;
+	margin-bottom: 2em;
+}
+
+.emsecommercecw-transaction-table .box {
+	border-top: solid 1px #FFF;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+	padding: 0.1em 0.8em 0.8em 0.8em;
+}
+
+.emsecommercecw-transaction-table .box h4 {
+	margin: 0.6em 0;
+}
+
+.multi-control > .controls {
+	display: inline;
+}
+
+
+table th {
+	text-align: left;
+}
+
+table .left-align {
+	text-align: left;
+}
+
+table .right-align {
+	text-align: right;
+}
+
+.closable-box {
+	text-align: right;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}

@@ -1,0 +1,1792 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgid "no"
+msgstr "No"
+
+msgid "Close transaction for further captures."
+msgstr "Close transaction for further captures"
+
+msgid "Total amount computed over all lineitems (%f) does not match cart total (%f)"
+msgstr "Total amount computed over all line items (%f) does not match cart total (%f)"
+
+msgid "Quantity"
+msgstr "Quantity"
+
+msgid "Authentication Server Error"
+msgstr "Authentication Server Error"
+
+msgid "American Express"
+msgstr "American Express"
+
+msgid "EMS eCommerce Gateway API Password"
+msgstr "EMS eCommerce Gateway API Password"
+
+msgid "MoTo"
+msgstr "MoTo"
+
+msgid "A cancelled transaction cannot be refunded."
+msgstr "A cancelled transaction cannot be refunded"
+
+msgid "Please enter here the name of the account owner."
+msgstr "Please enter the name of the account owner"
+
+msgid "Don't change order status"
+msgstr "Don't change order status"
+
+msgid "Please enter here the commercial number of your company."
+msgstr "Please enter the commercial number of your company."
+
+msgid "The interval in minutes between pulling updates from EMS eCommerce Gateway."
+msgstr "The interval in minutes for the pulling updates from EMS eCommerce Gateway."
+
+msgid "The capture item with SKU '@sku' is not present in the original order."
+msgstr "The capture item with SKU '@sku' is not present in the original order."
+
+msgid "An unexpected error occurred."
+msgstr "An unexpected error occurred"
+
+msgid "The given password is empty."
+msgstr "No password entered."
+
+msgid "Payment ID"
+msgstr "Payment ID"
+
+msgid "Refund Amount"
+msgstr "Refunded amount"
+
+msgid "You have to enter your bank account number."
+msgstr "Please enter here the International Bank Account Number (IBAN)."
+
+msgid "3D Secure"
+msgstr "3D Secure"
+
+msgid "Please select your issuing bank."
+msgstr "Please select your issuing bank."
+
+msgid "The HMAC key as defined in the live backoffice of EMS eCommerce Gateway. You may need generate the HMAC key. Please take a look at the manual how to do this."
+msgstr "The HMAC key as defined in the live backoffice of EMS eCommerce Gateway. You may need generate the HMAC key. Please take a look at the manual how to do this."
+
+msgid "Bank Location"
+msgstr "Bank Location"
+
+msgid "Responsive Payment Page"
+msgstr "Responsive Payment Page"
+
+msgid "Missing Permissions."
+msgstr "Missing Permissions."
+
+msgid "Please enter here the International Bank Account Number (IBAN)."
+msgstr "Please enter here the International Bank Account Number (IBAN)."
+
+msgid "Please enter here the Bank Identifier Code (BIC)."
+msgstr "Please enter here the Bank Identifier Code (BIC)."
+
+msgid "Set the sort order to show the external checkouts."
+msgstr "Set the sort order to show the external checkouts."
+
+msgid "Could not fetch installment plan from Klarna"
+msgstr "Could not fetch installment plan from Klarna"
+
+msgid "Could not find an adapter for the authoriztion method !methodName."
+msgstr "Could not find an adapter for the authoriztion method !methodName."
+
+msgid "Live Identifier (PBX_IDENTIFIANT)"
+msgstr "Live Identifier (PBX_IDENTIFIANT)"
+
+msgid "Directly after order (sale)"
+msgstr "Direct capturing"
+
+msgid "Create account"
+msgstr "Create account"
+
+msgid "Refund Transaction"
+msgstr "Refund Transaction"
+
+msgid "yes"
+msgstr "Yes"
+
+msgid "Figure !number:"
+msgstr "Figure !number:"
+
+msgid "Please read and accept the terms and conditions."
+msgstr "Please read and accept the terms and conditions."
+
+msgid "Check to activate the external checkout."
+msgstr "Check to activate the external checkout."
+
+msgid "Order prefix"
+msgstr "Order prefix"
+
+msgid "Learn More"
+msgstr "Learn More"
+
+msgid "The payment failed due to an unkown reason"
+msgstr "The payment failed due to an unkown reason"
+
+msgid "Cardholder not enrolled"
+msgstr "Cardholder not enrolled"
+
+msgid "Directory Server not responding"
+msgstr "Directory Server not responding"
+
+msgid "DirektÜberweisung Verification"
+msgstr "DirektÜberweisung Verification"
+
+msgid "Transaction Updates"
+msgstr "Transaction Updates"
+
+msgid "You have to enter an account number."
+msgstr "You have to enter an account number"
+
+msgid "Maximal Order Total"
+msgstr "Maximal order total"
+
+msgid "Currency"
+msgstr "Currency"
+
+msgid "Moto Client Certificate Passphrase (Test)"
+msgstr "Moto Client Certificate Passphrase (Test)"
+
+msgid "The card brand selection is automatically done depending on the entered card number. If no Javascript is active in the browser, a drop down is shown. In case JavaScript a the brand logos can be shown. Should the brand selection using images?"
+msgstr "The card brand selection is automatically done depending on the entered card number. If no Javascript is active in the browser, a drop down is shown. In case JavaScript a the brand logos can be shown should the brand selection using images."
+
+msgid "Please configure the Klarna Shared Secret"
+msgstr "Please configure the Klarna Shared Secret."
+
+msgid "MoTo EMS eCommerce Gateway API User Id"
+msgstr "MoTo EMS eCommerce Gateway API User ID"
+
+msgid "Alias"
+msgstr "Alias"
+
+msgid "Login / Register"
+msgstr "Login / Register"
+
+msgid "The total refund amount (!totalRefundedAmount) cannot be greater than the captured amount (!capturedAmount)."
+msgstr "The total refund amount (!totalRefundedAmount) cannot be greater than the captured amount (!capturedAmount)."
+
+msgid "Could not convert object of type '!type' to string."
+msgstr "Could not convert object of type '!type' to string."
+
+msgid "Close transaction for further refunds."
+msgstr "Close transaction for further refunds."
+
+msgid "Handling Fee"
+msgstr "Handling fee"
+
+msgid "Please enter here the sales tax number of your company."
+msgstr "Please enter here the sales tax number of your company."
+
+msgid "Pending"
+msgstr "Pending"
+
+msgid "Paid Status"
+msgstr "Paid status"
+
+msgid "The controller class '@controller' does not provide any method with annotation 'Customweb_Payment_Endpoint_Annotation_ExtractionMethod' and valid output."
+msgstr "The controller class '@controller' does not provide any method with the annotation 'Customweb_Payment_Endpoint_Annotation_ExtractionMethod' and valid output."
+
+msgid "Please select the day of your birth."
+msgstr "Please select the day of your birth."
+
+msgid "Which status should be set when a transaction is labelled as paid? For payments by invoice a payment the labelling might occur with a delay; in this case this status helps keep apart paid from unpaid invoices."
+msgstr "Which status should be set when a transaction is labelled as paid? For payments by invoice the labelling might occur with a delay; in this case this status helps differentiate between paid and unpaid invoices."
+
+msgid "BIC"
+msgstr "BIC"
+
+msgid "The passphrase to access the MoTO client certificate provided by EMS eCommerce Gateway (Test)."
+msgstr "The passphrase to access the MoTo client certificate provided by EMS eCommerce Gateway (Test)."
+
+msgid "Shipping Option"
+msgstr "Shipping Option"
+
+msgid "Payment Notification"
+msgstr "Payment Notification"
+
+msgid "Installment"
+msgstr "Installment"
+
+msgid "Authorization Failed"
+msgstr "Authorisation failed"
+
+msgid "Credit Card Brands"
+msgstr "Credit Card Brands"
+
+msgid "Successful"
+msgstr "Successful"
+
+msgid "No transaction ID provided."
+msgstr "No transaction ID provided."
+
+msgid "Captures"
+msgstr "Captures"
+
+msgid "Male"
+msgstr "Male"
+
+msgid "Only an uncertain transaction can be marked as finally declined."
+msgstr "Only uncertain transactions can be marked as finally declined."
+
+msgid "The API password required for the basic authorization will be provided by EMS eCommerce Gateway (Test)."
+msgstr "The API password required for the basic authorization will be provided by EMS eCommerce Gateway (Test)."
+
+msgid "Gender"
+msgstr "Gender"
+
+msgid "The next update execution date indicates when the next cron is run to update the transaction state."
+msgstr "The next update execution date indicates when the next cron is run to update the transaction state."
+
+msgid "Approval Code"
+msgstr "Approval Code"
+
+msgid "Available credits from !symbol 199.99 (depending on the amount of your purchases), effective annual interest rate 18.07% * and total amount 218,57 !symbol * (* in case of full utilization of the credit and repayment in 12 monthly installments of !symbol 18.21 each). Here you will find <a href='!more' target='_blank'>further information</a>, <a href='!tac' target='_blank'>terms and conditions with revocation instructions</a> and <a href='!info' target='_blank'>standard information for consumer credit</a>."
+msgstr "Available credits from !symbol 199.99 (depending on the amount of your purchases), effective annual interest rate 18.07% * and total amount 218,57 !symbol * (* in case of full utilization of the credit and repayment in 12 monthly installments of !symbol 18.21 each). Here you will find <a href='!more' target='_blank'>further information</a>, <a href='!tac' target='_blank'>terms and conditions with revocation instructions</a> and <a href='!info' target='_blank'>standard information for consumer credit</a>."
+
+msgid "MasterCard"
+msgstr "MasterCard"
+
+msgid "Transaction Number"
+msgstr "Transaction Number"
+
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
+
+msgid "Live Rang (PBX_RANG)"
+msgstr "Live Rang (PBX_RANG)"
+
+msgid "Please enter the location of your bank."
+msgstr "Please enter the location of your bank."
+
+msgid "Shipping Method"
+msgstr "Shipping Method"
+
+msgid "Deferred (authorization)"
+msgstr "Deferred (authorisation)"
+
+msgid "A cancelled transaction cannot be captured."
+msgstr "A cancelled transaction cannot be captured"
+
+msgid "You have to enter a valid IBAN"
+msgstr "You have to enter a valid IBAN"
+
+msgid "You can specify the order status for new orders that have an uncertain authorisation status."
+msgstr "You can specify the order status for new orders that have an uncertain authorisation status."
+
+msgid "The given identifier is empty."
+msgstr "The given identifier is empty."
+
+msgid "The given rang is empty. It must be a nummeric value with length of two."
+msgstr "The given rang is empty. It must be a numeric value with length of two."
+
+msgid "Card Expiry Date"
+msgstr "Card expiry date"
+
+msgid "Customer did not enter a phone number."
+msgstr "The customer did not enter a phone number."
+
+msgid "Captured Amount"
+msgstr "Captured amount"
+
+msgid "Issue Number"
+msgstr "Issue Number"
+
+msgid "If the status is 'Pending' it is unclear whether the transaction will be cancelled successfully."
+msgstr "If the status is 'Pending' it is unclear whether the transaction will be cancelled successfully."
+
+msgid "Image Brand Selection"
+msgstr "Image Brand Selection"
+
+msgid "Transaction Paid"
+msgstr "Transaction paid"
+
+msgid "Is Authorized"
+msgstr "Authorised"
+
+msgid "The payment method !paymentMethodName does not support the currency '!currency'."
+msgstr "The payment method !paymentMethodName does not support the currency '!currency'."
+
+msgid "customweb ltd"
+msgstr "customweb ltd"
+
+msgid "Break Out"
+msgstr "Break Out"
+
+msgid "Current File:"
+msgstr "Current File:"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Please specify the merchant id (EID) of your Klarna account."
+msgstr "Please specify the merchant id (EID) of your Klarna account."
+
+msgid "Cancel ID"
+msgstr "Cancel ID"
+
+msgid "Redirection"
+msgstr "Redirection"
+
+msgid "Klarna: Shared Secret"
+msgstr "Klarna: Shared Secret"
+
+msgid "JCB"
+msgstr "JCB"
+
+msgid "In test mode amounts with decimal places fail. Only xx.00 is accepted: !originalReason"
+msgstr "In test mode amounts with decimal places fail. Only xx.00 is accepted: !originalReason"
+
+msgid "Shared Secret Connect Interface provided by EMS eCommerce Gateway (Test)."
+msgstr "Shared Secret Connect Interface provided by EMS eCommerce Gateway (Test)."
+
+msgid "Identification of Person"
+msgstr "Identification of Person"
+
+msgid "Could not find a brand for the given card number."
+msgstr "Could not find a brand for the given card number."
+
+msgid "Bad signature format."
+msgstr "False signature format."
+
+msgid "This controls the title which the user sees during checkout."
+msgstr "This controls the title which the user sees during checkout."
+
+msgid "A cancelled transaction cannot be marked as failed."
+msgstr "A cancelled transaction cannot be marked as failed."
+
+msgid "There is a technical issue, please contact the merchant."
+msgstr "There is a technical issue, please contact the merchant."
+
+msgid "Please select the expiry month on your card."
+msgstr "You have to enter the month of the card expiry"
+
+msgid "SEPA Mandate ID"
+msgstr "SEPA Mandate ID"
+
+msgid "Payment and Billing"
+msgstr "Payment and Billing"
+
+msgid "Order Review"
+msgstr "Order Review"
+
+msgid "Not a valid shipping method"
+msgstr "Not a valid shipping method"
+
+msgid "Awaiting confirmation"
+msgstr "Awaiting confirmation"
+
+msgid "Female"
+msgstr "Female"
+
+msgid "The card brand selection is automatically done depending on the entered card number. If no Javascript is active in the browser, a drop down is shown. In case JavaScript a the brand logos can be shown. Should the brand selection using images? (Only for Hidden Authorization)"
+msgstr "The card brand selection is automatically done depending on the entered card number. If no Javascript is active in the browser, a drop down is shown. In case JavaScript a the brand logos can be shown. Should the brand selection using images? (Only for Hidden Authorization)"
+
+msgid "If it is not applicable leave the field empty."
+msgstr "If it is not applicable leave the field empty."
+
+msgid "Card Expiration"
+msgstr "Expiry Date"
+
+msgid "The brand of the credit card is detected by the card number if hidden authorization is used. The allowed credit card brands can be restricted by this setting. If payment page is used the customer will select the payment method at ____paymetnServiceProviderName____ and this setting is ignored."
+msgstr "The brand of the credit card is detected by the card number if hidden authorization is used. The allowed credit card brands can be restricted by this setting. If payment page is used the customer will select the payment method at EMS eCommerce Gateway and this setting is ignored."
+
+msgid "Shipping #%d"
+msgstr "Shipping #%d"
+
+msgid "Cancelled Status"
+msgstr "Cancelled status"
+
+msgid "Capture amount"
+msgstr "Capture amount"
+
+msgid "None"
+msgstr "None"
+
+msgid "The passphrase to access the client certificate provided by EMS eCommerce Gateway. Please make sure that you follow the instructions in the manual concerning the creation of the certificate file (Test)."
+msgstr "The passphrase to access the client certificate provided by EMS eCommerce Gateway. Please make sure that you follow the instructions in the manual concerning the creation of the certificate file (Test)."
+
+msgid "The cancellation could not be conducted. Error code: !error."
+msgstr "The cancellation could not be conducted. Error code: !error."
+
+msgid "By setting the capturing the reservation can be captured directly after the order or later manually over the backend of the store."
+msgstr "With the capture setting, the transaction can be captured directly after the order or later manually over the backend of the store."
+
+msgid "The shared secret for the connect interface (Test)"
+msgstr "The shared secret for the connect interface (Test)"
+
+msgid "Capture ID"
+msgstr "Capture ID"
+
+msgid "Only captured transaction can be refunded."
+msgstr "Only captured transaction can be refunded."
+
+msgid "Alias manager"
+msgstr "One-Click Checkout (Alias Manager)"
+
+msgid "Date of Birth"
+msgstr "Date of birth"
+
+msgid "Select the date on which your card expires."
+msgstr "Select the expiry date of your card."
+
+msgid "Maximal Refundable Amount"
+msgstr "Maximal refundable amount"
+
+msgid "Deactivate"
+msgstr "Deactivate"
+
+msgid "Flexibel in 14 Tagen bezahlen (<a href='https://cdn.klarna.com/1.0/shared/content/legal/terms/123/de_de/invoice#' target='_new'>Rechnungsbedingungen</a>)"
+msgstr "Flexibel in 14 Tagen bezahlen (<a href='https://cdn.klarna.com/1.0/shared/content/legal/terms/123/de_de/invoice#' target='_new'>Rechnungsbedingungen</a>)"
+
+msgid "The shared secret for the connect interface"
+msgstr "The shared secret for the connect interface"
+
+msgid "The given card number has an invalid length."
+msgstr "The given card number has an invalid length."
+
+msgid "The shared secret for the connect interface used for your MOTO transactions provided by EMS eCommerce Gateway."
+msgstr "The shared secret for the connect interface used for your MoTo transactions provided by EMS eCommerce Gateway."
+
+msgid "Place Order"
+msgstr "Place Order"
+
+msgid "The order is not fully completed. Please contact the store owner."
+msgstr "The payment could not be conducted."
+
+msgid "The transaction failed with an unkown error."
+msgstr "The transaction failed with an unkown error"
+
+msgid "Set here the maximal order total for which this payment method is available. If it is set to zero, it is always available."
+msgstr "Here you can set the maximal order total for which this payment method is available. If it is set to zero, it is always available."
+
+msgid "Rechnung"
+msgstr "Invoice"
+
+msgid "Shared Secret Connect Interface provided by EMS eCommerce Gateway."
+msgstr "Shared Secret Connect Interface provided by EMS eCommerce Gateway."
+
+msgid "3D Secure sucess"
+msgstr "3D Secure successfull"
+
+msgid "Could not resolve IP address of the customer."
+msgstr "Could not resolve IP address of the customer."
+
+msgid "Please select your gender."
+msgstr "Please select your gender."
+
+msgid "Failed"
+msgstr "Failed"
+
+msgid "You have to enter a valid BIC."
+msgstr "You have to enter a valid BIC."
+
+msgid "Continue"
+msgstr "Continue"
+
+msgid "Create a recurring payment, with an existing alias is not supported"
+msgstr "Creating a recurring payment with an existing alias is not supported."
+
+msgid "Action"
+msgstr "Action"
+
+msgid "You have to enter commercial number of you company."
+msgstr "Please enter the commercial number of your company."
+
+msgid "The shipping and billing addresses must be equal"
+msgstr "The shipping and billing addresses must be identical."
+
+msgid "Checkout failed with unknown reason"
+msgstr "Checkout failed with unknown reason."
+
+msgid "Capture Amount"
+msgstr "Amount to capture"
+
+msgid "Direct Debits"
+msgstr "Direct Debits (ELV)"
+
+msgid "Account Number"
+msgstr "Account Number"
+
+msgid "Shipping &amp; Handling"
+msgstr "Shipping &amp; Handling"
+
+msgid "Please select the expiry year on your card."
+msgstr "Please select your card's year of expiry."
+
+msgid "Please enter your issue number, if there is no CVC code on your card."
+msgstr "Please enter your issue number, if there is no CVC code on your card."
+
+msgid "Mandate Reference"
+msgstr "Mandate Reference"
+
+msgid "You can not submit both forms at once"
+msgstr "You can not submit both forms at once"
+
+msgid "Enable %s"
+msgstr "Enable %s"
+
+msgid "Test Transaction"
+msgstr "Test Transaction"
+
+msgid "The brand with external name '!key' was not present in the map."
+msgstr "The brand with external name '!key' was not present in the map."
+
+msgid "Month"
+msgstr "Month"
+
+msgid "Diners Club"
+msgstr "Diners Club"
+
+msgid "You can specify the order status for orders that had a pending authorization status. Due to technical reasons it can happen that a transaction can not be cleared directly. The order will then be set on a hold state. The module will automatically check for a status update. With the 'Status after Pending' you define which status will be set in case the order has been cleared. We suggest to set the state according the authorization state above."
+msgstr "You can specify the order status for orders with a pending authorisation status. Due to technical reasons it may happen that a transaction can not be cleared directly. The order will then be set on hold. The module will automatically check for status updates. With the 'Status after Pending' you can specify which status will be set in case the order has been cleared. We suggest setting the state in accordance with the authorisation state above."
+
+msgid "Deferred"
+msgstr "Deferred"
+
+msgid "You have to enter the card expiry."
+msgstr "You have to enter the card expiry date"
+
+msgid "Pay with %s over the interface of EMS eCommerce Gateway."
+msgstr "Pay with %s over the interface of EMS eCommerce Gateway."
+
+msgid "Define a maximal order total for this checkout to be available."
+msgstr "Define a maximal order total for this checkout to be available."
+
+msgid "Live HMAC Key"
+msgstr "Live HMAC Key"
+
+msgid "Amount"
+msgstr "Amount"
+
+msgid "Partial captures/refunds of Klarna payments cannot be created in the shop. This can only be done in the PSP backend."
+msgstr "Partial captures/refunds of Klarna payments cannot be created in the shop. This can only be done in the PSP backend."
+
+msgid "Password"
+msgstr "Password"
+
+msgid "This transaction is already closed for further captures."
+msgstr "This transaction is already closed for further captures"
+
+msgid "Client Certificate Passphrase"
+msgstr "Client Certificate Passphrase"
+
+msgid "DEBUG"
+msgstr "DEBUG"
+
+msgid "Could not load layout from URL !url. Reason: !reason"
+msgstr "Could not load layout from URL !url. Reason: !reason"
+
+msgid "The rang (PBX_RANG) as defined in the live backoffice of EMS eCommerce Gateway. It must be nummeric value with length two. In the backoffice it may be displayed as a three char value. You must truncate the first digit."
+msgstr "The rang (PBX_RANG) as defined in the live backoffice of EMS eCommerce Gateway. It must be nummeric value with length two. In the back office it may be displayed as a three char value. You must truncate the first digit."
+
+msgid "Laser"
+msgstr "Laser"
+
+msgid "The site id (PBX_RANG) as defined in the backoffice of EMS eCommerce Gateway."
+msgstr "The Site ID (PBX_RANG) as defined in the back office of EMS eCommerce Gateway."
+
+msgid "Status After Pending"
+msgstr "Status After Pending"
+
+msgid "Interest Fee"
+msgstr "Interest fee"
+
+msgid "3D Secure Authentication"
+msgstr "3D Secure Authentication"
+
+msgid "This status is set, when the payment was successfull and it is authorized."
+msgstr "This status is set when the payment was successful and it is authorised."
+
+msgid "The Store ID will be provided by EMS eCommerce Gateway and usally consist of 11 digits."
+msgstr "The Store ID will be provided by EMS eCommerce Gateway and usually consist of 11 digits."
+
+msgid "You have to enter the CVC code from the back of your credit card."
+msgstr "You have to enter the CVC code from the back of your credit card"
+
+msgid "CVC Code"
+msgstr "CVC Code"
+
+msgid "The API password required for the basic authorization will be provided by EMS eCommerce Gateway."
+msgstr "The API password required for the basic authorisation will be provided by EMS eCommerce Gateway."
+
+msgid "You have to enter the IBAN."
+msgstr "You have to enter your IBAN number."
+
+msgid "The MoTo User Id who is allowed to access the API"
+msgstr "The MoTo User ID allowed to access the API"
+
+msgid "Here you can insert an order prefix. The prefix allows you to change the order number that is transmitted to EMS eCommerce Gateway . The prefix must contain the tag {id}. It will then be replaced by the order number (e.g. name-{id}). Make sure that you do not use '_'."
+msgstr "Here you can insert an order prefix. The prefix allows you to change the order number that is transmitted to EMS eCommerce Gateway. The prefix must contain the tag {id}. It will then be replaced by the order number (e.g. name_{id})."
+
+msgid "You can specify the order status for orders that are denied after being pending at Klarna"
+msgstr "You can specify the order status for orders that are denied after being pending at Klarna"
+
+msgid "A captured transaction cannot be marked as failed."
+msgstr "A captured transaction cannot be marked as failed."
+
+msgid "Please specify the shared secret your Klarna account."
+msgstr "Please specify the shared secret your Klarna account."
+
+msgid "The authorization method '!method' is not supported."
+msgstr "The authorization method '!method' is not supported."
+
+msgid "You can specify the order status for orders that are captured either directly after the order or manually in the backend."
+msgstr "You can specify the order status for orders that are captured either directly after the order or manually in the back-end."
+
+msgid "Day"
+msgstr "Day"
+
+msgid "Please check the entered credit card number."
+msgstr "Please check the entered credit card number."
+
+msgid "Please selecet your gender."
+msgstr "Please select your gender."
+
+msgid "You have to enter the account holder name on the card."
+msgstr "You have to enter the account holder name on the card."
+
+msgid "You have to enter the location of your bank."
+msgstr "Please enter the location of your bank."
+
+msgid "MoTo EMS eCommerce Gateway API Password"
+msgstr "MoTo EMS eCommerce Gateway API Password"
+
+msgid "Submitting order information..."
+msgstr "Submitting order information..."
+
+msgid "The given site number is empty."
+msgstr "The given site number is empty."
+
+msgid "Live Password"
+msgstr "Live Password"
+
+msgid "The refund item with SKU '@sku' is not present in the original order."
+msgstr "The refund item with SKU '@sku' is not present in the original order."
+
+msgid "Live Mode"
+msgstr "Live Mode"
+
+msgid "The signature could not be verified."
+msgstr "The signature could not be verified."
+
+msgid "Force non SSL notifications"
+msgstr "Force non SSL notifications"
+
+msgid "The given card number has an invalid check sum."
+msgstr "The given card number has an invalid check sum."
+
+msgid "Checkout with MasterPass."
+msgstr "Buy with MasterPass."
+
+msgid "Order #"
+msgstr "Order Number"
+
+msgid "Please enter your IBAN number."
+msgstr "Please enter your IBAN number."
+
+msgid "A cancelled transaction cannot be authorized."
+msgstr "A cancelled transaction cannot be authorised."
+
+msgid "You have to enter the BIC of your bank."
+msgstr "You have to enter the BIC of your bank."
+
+msgid "Enter the date on which your card expires."
+msgstr "Enter the card expiry date."
+
+msgid "Authorization Attempted"
+msgstr "Authorization attempted"
+
+msgid "Inactive"
+msgstr "Inactive"
+
+msgid "I confirm my payment"
+msgstr "I confirm my payment"
+
+msgid "The payment method !paymentMethodName is not available in your country ('!country')."
+msgstr "The payment method !paymentMethodName is not available in your country ('!country')."
+
+msgid "Company Commercial Number"
+msgstr "Company Commercial Number"
+
+msgid "In test mode amounts with decimal places fail. Only xx.00 is accepted"
+msgstr "In test mode amounts with decimal places fail. Only xx.00 is accepted."
+
+msgid "Direct E-Banking"
+msgstr "Direct E-Banking"
+
+msgid "You have to enter bank code of your bank."
+msgstr "Enter your bank's bank code."
+
+msgid "Operation Mode"
+msgstr "Operation mode"
+
+msgid "The customer did not the terms and conditions of Klarna."
+msgstr "The customer did not accept the terms and conditions of Klarna."
+
+msgid "Customer sucessfully returned from the EMSeCommerceCw payment page."
+msgstr "Customer successfully returned from the EMSeCommerceCw payment page."
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Save Shipping Method"
+msgstr "Save Shipping Method"
+
+msgid "Here you can find <a href='!more' target='_blank'>more information about installments</a>, <a href='!tac' target='_blank'>terms and conditions with revocation information</a> and <a href='!info' target='_blank'>general information about consumer credit</a>."
+msgstr "Here you can find <a href='!more' target='_blank'>more information about installments</a>, <a href='!tac' target='_blank'>terms and conditions with revocation information</a> and <a href='!info' target='_blank'>general information about consumer credit</a>."
+
+msgid "<br />If your purchase with Klarna is higher than !symbol 199.99, you will receive a consumer credit agreement from Klarna with the request for signing. Until then your purchase is considered as invoice purchase."
+msgstr "<br />If your purchase with Klarna is higher than !symbol 199.99, you will receive a consumer credit agreement from Klarna with the request for signing. Until then your purchase is considered as invoice purchase."
+
+msgid "Authorization Amount"
+msgstr "Authorisation Amount"
+
+msgid "Method information"
+msgstr "Method information"
+
+msgid "Authentication of Bank Account"
+msgstr "Authentication of Bank Account"
+
+msgid "A transaction may be uncertain, when the payment is not guaranteed. For example in case the credit card does not participate in the 3D procedure."
+msgstr "A transaction may be uncertain, when the payment is not guaranteed. For example in the case that the credit card does not participate in the 3D Secure procedure."
+
+msgid "The transaction failed with error code !code."
+msgstr "The transaction failed with error code: !code"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Card Holder Name"
+msgstr "Card holder name"
+
+msgid "The payment could not be processed. However, it seems that the payment was successful nevertheless. Your order was created and can be seen on the order confirmation page. Please contact us to find out more about the status of the order."
+msgstr "The payment could not be processed. However, it seems that the payment was successful nevertheless. Your order was created and can be seen on the order confirmation page. Please contact us to find out more about the status of the order."
+
+msgid "Cart has been modified after displaying order review"
+msgstr "Cart has been modified after displaying order review"
+
+msgid "If you have any issues with the module please feel free to contact us. See our <a href='https://www.sellxed.com/en/support' target='_blank'>support page</a> for more information."
+msgstr "If you have any issues with the module please feel free to contact us. See our <a href='https://www.sellxed.com/en/support' target='_blank'>support page</a> for more information."
+
+msgid "You have to enter your IBAN Number."
+msgstr "You have to enter your IBAN number."
+
+msgid "Captured Status"
+msgstr "Captured status"
+
+msgid "Cancel status"
+msgstr "Cancel status"
+
+msgid "Should the amount be captured automatically after the order (direct) or should the amount only be reserved (deferred)?"
+msgstr "Should the amount be captured automatically after the order (direct) or should the amount only be reserved (deferred)?"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "This password is used for recurring payments and for the alias manager as well as for the server authorization. This is the password of the EMS eCommerce Gateway account."
+msgstr "This password is used for recurring payments and for the alias manager as well as for the server authorization. This is the password of the EMS eCommerce Gateway account."
+
+msgid "Raten und Laufzeit selbst bestimmen (<a href='https://cdn.klarna.com/1.0/shared/content/legal/terms/123/de_de/account' target='_new' >Lesen sie mehr</a>)"
+msgstr "Raten und Laufzeit selbst bestimmen (<a href='https://cdn.klarna.com/1.0/shared/content/legal/terms/123/de_de/account' target='_new' >Lesen sie mehr</a>)"
+
+msgid "MOTO Store ID (Test)"
+msgstr "MoTo Store ID (Test)"
+
+msgid "EMS eCommerce Gateway Transactions"
+msgstr "EMS eCommerce Gateway Transactions"
+
+msgid "Could not find the payment method !paymentMethodName."
+msgstr "Could not find the payment method !paymentMethodName."
+
+msgid "No shipping method available for your region"
+msgstr "No shipping method available for your region"
+
+msgid "The brand with key '!key' was not found in the card information map."
+msgstr "The brand with key '!key' was not found in the card information map."
+
+msgid "Please configure the Klarna Merchant ID"
+msgstr "Please configure the Klarna Merchant ID"
+
+msgid "The customer does not finish the payment with in the timeout."
+msgstr "The customer does not finish the payment with in the timeout."
+
+msgid "Subscription Payment Failed with error:"
+msgstr "Subscription payment failed with error:"
+
+msgid "Error with the length of the validation date."
+msgstr "Error with the length of the validation date."
+
+msgid "Minimal Monthly Payment"
+msgstr "Minimal Monthly Payment"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "The amount could not be verified."
+msgstr "The amount could not be verified."
+
+msgid "Bank account number"
+msgstr "Bank account number (IBAN)"
+
+msgid "Moto Client Certificate Passphrase"
+msgstr "Moto Client Certificate Passphrase"
+
+msgid "Set here the minimal order total for which this payment method is available. If it is set to zero, it is always available."
+msgstr "Here you can set the minimal order total for which this payment method is available. If it is set to zero, it is always available."
+
+msgid "Other Discount"
+msgstr "Other discount"
+
+msgid "EMS eCommerce Gateway API password"
+msgstr "EMS eCommerce Gateway API password"
+
+msgid "Capture Transaction"
+msgstr "Capture transaction"
+
+msgid "Transaction Authorized"
+msgstr "Transaction authorised"
+
+msgid "In test mode amounts with decimal places fail: !originalReason"
+msgstr "In test mode amounts with decimal places fail: !originalReason. The amount has to be (XX.00)"
+
+msgid "The brand of the credit card is detected by the card number if hidden authorization is used. If the payment page is used, the user has to select the brand. The allowed credit card brands can be restricted by this setting."
+msgstr "The brand of the credit card is detected by the card number if hidden authorization is used. If the payment page is used, the user has to select the brand. The allowed credit card brands can be restricted by this setting."
+
+msgid "EMS eCommerce Gateway API Password (Test)"
+msgstr "EMS eCommerce Gateway API Password (Test)"
+
+msgid "The refund item with SKU '@sku' has a higher amount (@amountItem) as the original item (@amountOriginal)."
+msgstr "The refund item with SKU '@sku' has a higher amount (@amountItem) as the original item (@amountOriginal)."
+
+msgid "Bank code number"
+msgstr "Bank code number"
+
+msgid "Directory Server Error"
+msgstr "Directory Server Error"
+
+msgid "Test Environment"
+msgstr "Test Environment"
+
+msgid "You have to enter your birthplace"
+msgstr "Please enter your place of birth."
+
+msgid "No Store ID was provided."
+msgstr "No Store ID was provided"
+
+msgid "A captured transaction cannot be authorized."
+msgstr "A captured transaction cannot be authorised."
+
+msgid "The validation of the payment can be carried out at various points during the order process. The validation can be controlled with this option."
+msgstr "The validation of the payment can be carried out at various points during the order process. The validation is controlled with this option."
+
+msgid "The passphrase to access the client certificate provided by EMS eCommerce Gateway. Please make sure that you follow the instructions in the manual concerning the creation of the certificate file."
+msgstr "The pass-phrase to access the client certificate provided by EMS eCommerce Gateway. Concerning the creation of the certificate file, please make sure you follow the instructions in the manual."
+
+msgid "The given rang is invalid. It must be a nummeric value with length of two."
+msgstr "The given rang is invalid. It must be a numeric value with length of two."
+
+msgid "Refund"
+msgstr "Refund Transaction"
+
+msgid "A authorized transaction cannot be marked as failed."
+msgstr "An authorised transaction cannot be marked as failed."
+
+msgid "Authorized Status"
+msgstr "Authorised status"
+
+msgid "Select the additional information shown to the customer."
+msgstr "Select the additional information shown to the customer."
+
+msgid "I agree that that Klarna can use my adress data for identity and scoring checks. I am aware that I can revoke my !consent at any time in the future. The general terms and conditions of the merchant apply."
+msgstr "I agree that Klarna can use my address data to identity and for scoring of checks. I am aware that I can revoke my !consent at any time in the future. The general terms and conditions of the merchant apply."
+
+msgid "The amount of !amount is captured."
+msgstr "The amount of !amount is captured."
+
+msgid "Interest Rate"
+msgstr "Interest Rate"
+
+msgid "The MoTo User Id who is allowed to access the API (Test)"
+msgstr "The MoTo User Id who is allowed to access the API (Test)"
+
+msgid "Order Total"
+msgstr "Order total"
+
+msgid "Please enter here the bank code of your bank."
+msgstr "Please enter here the bank code of your bank"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "The alias manager allows the customer to select from a credit card previously stored. The credit card data is stored by EMS eCommerce Gateway."
+msgstr "The alias manager allows the customer to pay with a previously stored credit card. The credit card data is stored with EMS eCommerce Gateway."
+
+msgid "Uncertain Status"
+msgstr "Uncertain status"
+
+msgid "Authorization Method"
+msgstr "Authorisation Method"
+
+msgid "The customer is now in the payment process of EMS eCommerce Gateway."
+msgstr "The customer is now in the payment process of EMS eCommerce Gateway."
+
+msgid "Could not find template file at default location '!location'."
+msgstr "Could not find template file at default location '!location'."
+
+msgid "Shipping Address"
+msgstr "Delivery address"
+
+msgid "Activated"
+msgstr "Activated"
+
+msgid "Select card"
+msgstr "Select card brand"
+
+msgid "Customer did not enter a social securiy number."
+msgstr "The customer did not enter a social security number."
+
+msgid "Can not retrieve installment rates."
+msgstr "Can not retrieve installment rates."
+
+msgid "Age verification"
+msgstr "Age verification"
+
+msgid "EMSeCommerceCw Interval"
+msgstr "EMSeCommerceCw Interval"
+
+msgid "You have to activate JavaScript in your browser to complete the payment."
+msgstr "You have to activate JavaScript in your browser to complete the payment."
+
+msgid "Klarna: Merchant ID"
+msgstr "Klarna: Merchant ID"
+
+msgid "Select the date of your birth."
+msgstr "Select your date of birth."
+
+msgid "A manual renewal debits the customer directly for this subscription. This by pass any time restriction of the automatic subscription plugin."
+msgstr "A manual renewal charges the customer directly for this subscription. This by pass any preset billing agreement of the automatic subscription plugin."
+
+msgid "We experienced a problem with your sellxed payment extension. For more information, please visit the information page of the plugin."
+msgstr "We experienced a problem with your sellxed payment extension. For more information, please visit the configuration page of the EMS eCommerce Gateway plugin."
+
+msgid "Please enter here the IBAN of your bank account."
+msgstr "Please enter here the International Bank Account Number (IBAN)."
+
+msgid "The capture amount (!captureAmount) cannot be greater than the authorized amount (!authorizedAmount)."
+msgstr "The capture amount (!captureAmount) cannot be greater than the authorized amount (!authorizedAmount)."
+
+msgid "The User Id who is allowed to access the API will be provided by EMS eCommerce Gateway (Test)."
+msgstr "The User ID that is allowed to access the API will be provided by EMS eCommerce Gateway (Test)."
+
+msgid "Activate"
+msgstr "Active"
+
+msgid "You have to enter your date of birth"
+msgstr "You have to enter your date of birth"
+
+msgid "Wrong authorization type."
+msgstr "Wrong authorization type."
+
+msgid "You have to enter a card number."
+msgstr "You have to enter a card number."
+
+msgid "Client Certificate Passphrase (Test)"
+msgstr "Client Certificate Passphrase (Test)"
+
+msgid "Please enter a valid day of birth."
+msgstr "Please enter a valid day of birth."
+
+msgid "No month set in the date of birth field."
+msgstr "No month set in the date of birth field."
+
+msgid "Store ID"
+msgstr "Store ID"
+
+msgid "Only on captured transaction the flag customer refusing to pay can be set."
+msgstr "It is only possible to set a flag for customers refusing to pay on captured transactions."
+
+msgid "Payment Information"
+msgstr "Payment Information"
+
+msgid "Costs"
+msgstr "Costs"
+
+msgid "Refund amount"
+msgstr "Refunded amount"
+
+msgid "The amount of !amount is authorized."
+msgstr "The amount of !amount is authorized."
+
+msgid "Please enter here your social security number."
+msgstr "Please enter your social security number."
+
+msgid "The Store ID will be provided by EMS eCommerce Gateway and usally consist of 11 digits. (Test)"
+msgstr "The Store ID will be provided by EMS eCommerce Gateway and usually consist of 11 digits. (Test)"
+
+msgid "During the authorization of the payment a 3D secure check may be done. The selected outcomes are treated as uncertain transactions."
+msgstr "During the authorisation of the payment, a 3D Secure check might be carried out. Based on the selection you make here, the payments will treated as uncertain transactions."
+
+msgid "EMS eCommerce Gateway Settings"
+msgstr "EMS eCommerce Gateway settings"
+
+msgid "You have to enter either the CVC code or the issue number of your card."
+msgstr "You have to enter either the CVC code or the issue number of your card."
+
+msgid "Transaction Cancelled"
+msgstr "Transaction cancelled"
+
+msgid "No order ID provided."
+msgstr "No order ID provided."
+
+msgid "3D Secure failed"
+msgstr "3D Secure verification failed"
+
+msgid "Invalid transaction ID provided."
+msgstr "Invalid transaction ID provided."
+
+msgid "Transaction Uncertain"
+msgstr "Transaction uncertain"
+
+msgid "VISA"
+msgstr "VISA"
+
+msgid "Data Collection"
+msgstr "Data Collection"
+
+msgid "Next Update Execution Date"
+msgstr "Next Update Execution Date"
+
+msgid "Select if DirektÜberweisung should verfiy payment data"
+msgstr "Select if DirektÜberweisung should verfiy payment data"
+
+msgid "Customer did not enter a date of birth."
+msgstr "The customer did not enter a date of birth."
+
+msgid "Your browser does not allow the execution of JavaScript. Please activate JavaScript in your browser and reload this page."
+msgstr "Your browser does not allow the execution of JavaScript. Please activate JavaScript in your browser and reload this page."
+
+msgid "Select Brand"
+msgstr "Select card brand"
+
+msgid "Only authorized transaction can be refunded."
+msgstr "Only authorised transaction can be refunded."
+
+msgid "Pull interval"
+msgstr "Pull interval"
+
+msgid "Social Security Number"
+msgstr "Social Security Number"
+
+msgid "Details: !details"
+msgstr "Details: !details"
+
+msgid "Multiple Shipping Methods"
+msgstr "Multiple Shipping Methods"
+
+msgid "Status"
+msgstr "State"
+
+msgid "Select the authorization method to use for processing this payment method."
+msgstr "Select the authorisation method to use in order to process this payment method. (Please be aware that the hidden mode for credit cards (if available) requires additional PCI certification requirements. Contact EMS eCommerce Gateway for additional information)."
+
+msgid "Maestro"
+msgstr "Maestro"
+
+msgid "Invoice"
+msgstr "Invoice"
+
+msgid "Social security number required"
+msgstr "Social security number required"
+
+msgid "The provided signature does not match with the one calculated."
+msgstr "The provided signature does not match the one calculated."
+
+msgid "Refund ID"
+msgstr "Refund ID"
+
+msgid "Error Message:"
+msgstr "Error message:"
+
+msgid "EMS eCommerce Gateway API User Id (Test)"
+msgstr "EMS eCommerce Gateway API User ID (Test)"
+
+msgid "If the test mode is selected the test account is used. Otherwise the configured account is used."
+msgstr "If the test mode is selected the test account is used. Otherwise the configured account is used."
+
+msgid "Rounding Adjustment"
+msgstr "Rounding Adjustments"
+
+msgid "MOTO Shared Secret Connect Interface"
+msgstr "MOTO Shared Secret Connect Interface"
+
+msgid "MOTO Store ID"
+msgstr "MoTo Store ID"
+
+msgid "Select the data which EMS eCommerce Gateway collects during the payment page checkout process. We suggest that you use 'Payment Information only' otherwise the user will be asked for additional details on the Payment Page."
+msgstr "Select the data collected by EMS eCommerce Gateway during the payment page checkout process. We suggest using 'Payment Information only' as otherwise the user will be asked for additional details on the Payment Page."
+
+msgid "Free"
+msgstr "Free"
+
+msgid "Customer did not select his gender."
+msgstr "The customer did not select his gender."
+
+msgid "Bank Name"
+msgstr "Bank Name"
+
+msgid "Status denied after Klarna pending"
+msgstr "Status denied after Klarna pending"
+
+msgid "If the status is 'Pending' it is unclear whether the transaction will be captured successfully."
+msgstr "If the status is 'Pending' it is unclear whether the transaction will be captured successfully."
+
+msgid "Save"
+msgstr "Save"
+
+msgid "The capture item with SKU '@sku' has a higher amount (@amountItem) as the original item (@amountOriginal)."
+msgstr "The capture item with SKU '@sku' has a higher amount (@amountItem) than the original item (@amountOriginal)."
+
+msgid "The payment method !paymentMethod does not support recurring payment."
+msgstr "The payment method !paymentMethod does not support recurring payments."
+
+msgid "The transaction was declined by Klana."
+msgstr "The transaction was declined by Klarna."
+
+msgid "Select the data which EMS eCommerce Gateway collects during the payment page checkout process"
+msgstr "Select the data collected by EMS eCommerce Gateway during the payment page checkout process."
+
+msgid "Brand Name"
+msgstr "Brand Name"
+
+msgid "Dear customer we have received your billing and shipping information. In order to finish your order please create an account below or checkout as guest."
+msgstr "Dear customer we have received your billing and shipping information. In order to finalize your order please create an account below or checkout as a guest."
+
+msgid "The capturing could not be conducted. Error code: !error."
+msgstr "The capturing could not be conducted. Error code: !error."
+
+msgid "Select your gender"
+msgstr "Please select your gender."
+
+msgid "You have to enter the a valid card number."
+msgstr "You have to enter a valid card number."
+
+msgid "Please enter your Date of Birth (DD.MM.YYYY)."
+msgstr "Please enter your Date of Birth (DD.MM.YYYY)."
+
+msgid "Solvency Information"
+msgstr "Solvency Information"
+
+msgid "The MoTo API password required for the basic authorization. The password is provided by EMS eCommerce Gateway (Test)."
+msgstr "The MoTo API password required for the basic authorization. The password is provided by EMS eCommerce Gateway (Test)."
+
+msgid "Deactivated"
+msgstr "Deactivated"
+
+msgid "You have to enter the CVC code from your card."
+msgstr "Enter the CVC code from your card"
+
+msgid "About"
+msgstr "About"
+
+msgid "Please enter your social security number."
+msgstr "Please enter your social security number."
+
+msgid "The configuration values for EMS eCommerce Gateway can be set under:"
+msgstr "The configuration values for EMS eCommerce Gateway can be set under:"
+
+msgid "Here you can insert an order prefix. The prefix allows you to change the order number that is transmitted to Authorize.net. The prefix must contain the tag {id}. It will then be replaced by the order number (e.g. name_{id})."
+msgstr "Here you can insert an order prefix. The prefix allows you to change the order number that is transmitted to EMS eCommerce Gateway. The prefix must contain the tag {id}. It will then be replaced by the order number (e.g. name_{id})."
+
+msgid "External Checkout"
+msgstr "External Checkout"
+
+msgid "Access Control Server not responding"
+msgstr "Access Control Server not responding"
+
+msgid "Continue to your the order confirmation"
+msgstr "Continue to the order confirmation"
+
+msgid "You have to enter your social security number."
+msgstr "Please enter your social security number."
+
+msgid "Could not load payment module."
+msgstr "Could not load payment module."
+
+msgid "Please enter here the account holder name on the card."
+msgstr "Please enter here the account holder name on the card."
+
+msgid "Successfully add a manual renewal payment."
+msgstr "Successfully add a manual renewal payment."
+
+msgid "Refunded Amount"
+msgstr "Refunded amount"
+
+msgid "During the authorization"
+msgstr "During the authorisation"
+
+msgid "Success"
+msgstr "Successful"
+
+msgid "Please enter here your phone number."
+msgstr "Please enter your phone number here."
+
+msgid "Trans ID"
+msgstr "Transaction ID"
+
+msgid "No hash provided"
+msgstr "No hash provided"
+
+msgid "Please select a shipping method."
+msgstr "Please select a shipping method"
+
+msgid "EMS eCommerce Gateway API User Id"
+msgstr "EMS eCommerce Gateway API User ID"
+
+msgid "Description"
+msgstr "This controls the description which the user sees during checkout."
+
+msgid "Billing Address"
+msgstr "Billing Address"
+
+msgid "The SEPA mandate schema does not contain the tag '!tag'. This tag is required."
+msgstr "The SEPA mandate schema does not contain the tag '!tag'. This tag is required."
+
+msgid "Enter the store Id, that you will use to process your MOTO transactions. The MOTO ID is provided by EMS eCommerce Gateway (Test)."
+msgstr "Enter the store Id you will use to process your MoTo transactions. The MoTo ID is provided by EMS eCommerce Gateway (Test)."
+
+msgid "Token expired"
+msgstr "Token expired"
+
+msgid "MasterPass: Order Confirmation"
+msgstr "MasterPass: Order Confirmation"
+
+msgid "Refunds"
+msgstr "Credit Memo"
+
+msgid "Please accept the terms and conditions."
+msgstr "Please accept the terms and conditions."
+
+msgid "Mobile"
+msgstr "Mobile"
+
+msgid "Live Site ID (PBX_SITE)"
+msgstr "Live Site ID (PBX_SITE)"
+
+msgid "We're sorry. We were unable to process this transaction with Klarna. Please choose another payment method."
+msgstr "We're sorry. We were unable to process this transaction with Klarna. Please choose another payment method."
+
+msgid "Year"
+msgstr "Year"
+
+msgid "The shared secret for the connect interface used for your MOTO transactions provided by EMS eCommerce Gateway (Test)."
+msgstr "The shared secret for the connect interface used for your MoTo transactions provided by EMS eCommerce Gateway (Test)."
+
+msgid "Missing payment method."
+msgstr "Missing payment method."
+
+msgid "Available credits from !symbol 199.99 (depending on the amount of your purchases), effective annual interest rate 18.07% * and total amount 218,57 !symbol * (* in case of full utilization of the credit and repayment in 12 monthly installments of !symbol 18.21 each). Here you will find <a href='!more' target='_blank'>further information</a>, <a href='!tac' target='_blank'>terms and conditions with revocation instructions</a> and <a href='!info' target='_blank'>standard information for consumer credit</a>. <br /> If your purchase with Klarna is higher than !symbol 199.99, you will receive a consumer credit agreement from Klarna with the request for signing. Until then your purchase is considered as invoice purchase."
+msgstr "Available credits from !symbol 199.99 (depending on the amount of your purchases), effective annual interest rate 18.07%* and total amount 218,57 !symbol* (* in case of full utilization of the credit and repayment in 12 monthly installments of !symbol 18.21 each). Here you will find <a href='!more' target='_blank'>further information</a>, <a href='!tac' target='_blank'>terms and conditions with revocation instructions</a> and <a href='!info' target='_blank'>standard information for consumer credit</a>. <br /> If your purchase with Klarna is higher than !symbol 199.99, you will receive a consumer credit agreement from Klarna with the request for signing. Until then your purchase is considered as invoice purchase."
+
+msgid "Maximal Capturable Amount"
+msgstr "Maximal capturable amount"
+
+msgid "MasterPass"
+msgstr "MasterPass"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Author"
+msgstr "Author"
+
+msgid "Please enter here your birthplace"
+msgstr "Please enter your place of birth."
+
+msgid "You have to enter the BIC."
+msgstr "You have to enter the BIC of your bank."
+
+msgid "Store ID (Test)"
+msgstr "Store ID (Test)"
+
+msgid "Amount to refund"
+msgstr "Amount to refund:"
+
+msgid "Time Out"
+msgstr "Time Out"
+
+msgid "You have to enter an IBAN."
+msgstr "You have to enter an IBAN."
+
+msgid "Please enter your phone number."
+msgstr "Please enter your phone number."
+
+msgid "A refund was added over !amount."
+msgstr "A refund was added over !amount."
+
+msgid "Please select the Bank Identifier Code (BIC) of your bank."
+msgstr "Please select the Bank Identifier Code (BIC) of your bank."
+
+msgid "Transaction declined as authorization is pending at a third party service."
+msgstr "Transaction declined as authorization is pending at a third party service."
+
+msgid "This transaction is already closed for further refunds."
+msgstr "This transaction has been closed for further refunds."
+
+msgid "Cart Subtotal"
+msgstr "Cart Subtotal"
+
+msgid "Payment Method"
+msgstr "Payment Method"
+
+msgid "Transaction notification verification failed."
+msgstr "Transaction notification verification failed."
+
+msgid "Your Payment"
+msgstr "Your Payment"
+
+msgid "Authentication of Person"
+msgstr "Authentication of Person"
+
+msgid "A authorized transaction cannot be authorized again."
+msgstr "An authorised transaction cannot be authorised again."
+
+msgid "You have to enter the CVC code or the issue number from your credit card."
+msgstr "You have to enter either the CVC code or the issue number of your card."
+
+msgid "The passphrase to access the MoTO client certificate provided by EMS eCommerce Gateway."
+msgstr "The pass-phrase to access the MoTo client certificate provided by EMS eCommerce Gateway."
+
+msgid "This controls the description which the user sees during checkout."
+msgstr "This controls the description which the user sees during checkout."
+
+msgid "The alias transaction could not be conductet with error code: !code, and reason: !reason:"
+msgstr "The alias transaction could not be conducted with error code: !code, and reason: !reason:"
+
+msgid "You have to enter your IBAN."
+msgstr "Please enter your IBAN number."
+
+msgid "No day set in the date of birth field."
+msgstr "No day set in the date of birth field."
+
+msgid "Please enter here the account holder name."
+msgstr "Please enter here the account holder name."
+
+msgid "Less Details"
+msgstr "Less Details"
+
+msgid "Discount"
+msgstr "Discount"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Define a minimal order total for this checkout to be available."
+msgstr "Define a minimal order total for this checkout to be available."
+
+msgid "MOTO Shared Secret Connect Interface (Test)"
+msgstr "MoTo Shared Secret Connect Interface (Test)"
+
+msgid "Please enter the BIC of your bank."
+msgstr "Please enter the BIC number."
+
+msgid "!symbol / month"
+msgstr "!symbol / month"
+
+msgid "You have to enter sales tax number of you company."
+msgstr "You have to enter sales tax number of you company."
+
+msgid "Please enter a day of birth."
+msgstr "Please enter your date of birth."
+
+msgid "Not enrolled"
+msgstr "Not enrolled"
+
+msgid "After selection of payment method"
+msgstr "After payment method selection"
+
+msgid "Use Default"
+msgstr "Use Default"
+
+msgid "The transaction is only executed in the test system. The goods should not be delivered."
+msgstr "The transaction is only executed in the test system. The goods should not be delivered."
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Product"
+msgstr "Product"
+
+msgid "This setting can be used to activate resp. deactivate the 3D secure check. Please check with PayBox if you are allowed to deactivate the 3D secure check. This setting has only an effect when you use the payment page."
+msgstr "This setting can be used to activate/deactivate the 3D Secure check. Please check with PayBox if you are allowed to deactivate the 3D Secure check. This setting only has an effect if you use the payment page."
+
+msgid "Maestro UK"
+msgstr "Maestro UK"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Payment, Billing and Shipping"
+msgstr "Payment, Billing and Shipping"
+
+msgid "You will be redirected in a few seconds to MasterPass."
+msgstr "You will be redirected in a few seconds to MasterPass."
+
+msgid "Disable 3d Secure for this payment method."
+msgstr "Disable 3D Secure for this payment method."
+
+msgid "Version"
+msgstr "Version"
+
+msgid "No, use the dropdown."
+msgstr "No, use the dropdown menu."
+
+msgid "No"
+msgstr "No"
+
+msgid "Please select the month of your birth."
+msgstr "Please select the month of your birth."
+
+msgid "You have to enter the card holder name on the card."
+msgstr "You have to enter the card holder name."
+
+msgid "Only authorized transaction can be cancelled."
+msgstr "Only authorised transaction can be cancelled."
+
+msgid "Release Date"
+msgstr "Release Date"
+
+msgid "This payment method is currently not available, please select another one."
+msgstr "This payment method is currently not available, please select another one."
+
+msgid "The context is in the wrong state, for this action"
+msgstr "The context is in the wrong state, for this action"
+
+msgid "You have to enter a valid bank code."
+msgstr "You have to enter a valid bank code"
+
+msgid "Minimal Order Total"
+msgstr "Minimum order total"
+
+msgid "Payment"
+msgstr "Payment"
+
+msgid "Live Environment"
+msgstr "Live Environment"
+
+msgid "Order Prefix"
+msgstr "Order Prefix"
+
+msgid "Card Number"
+msgstr "Card number"
+
+msgid "Phone Number"
+msgstr "Phone number"
+
+msgid "3D secure authorization attempted"
+msgstr "3D secure authorization attempted"
+
+msgid "Payment Information only"
+msgstr "Payment Information only"
+
+msgid "Enter the store Id, that you will use to process your MOTO transactions. The MOTO ID is provided by EMS eCommerce Gateway."
+msgstr "Enter the store Id you will use to process your MoTo transactions. The MoTo ID is provided by EMS eCommerce Gateway."
+
+msgid "Please enter here the CVC code from your card. You find the code on the back of the card."
+msgstr "Please enter the CVC code from your card. You can find the code on the back of the card."
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Test Mode"
+msgstr "Test Mode"
+
+msgid "Capturing"
+msgstr "Capturing"
+
+msgid "Please check the entered CVC number."
+msgstr "Please check the entered CVC number."
+
+msgid "IBAN"
+msgstr "IBAN"
+
+msgid "Issuing Bank"
+msgstr "Issuing Bank"
+
+msgid "The layout does not contain the tag '!layout_tag'."
+msgstr "The layout does not contain the tag '!layout_tag'."
+
+msgid "Dear customer, it appears to us that your payment was successful, but we are still waiting for confirmation. You can wait on this page and we will redirect you after we received the confirmation. Or you can close this window and we will send out an order confirmation email."
+msgstr "Dear customer, it appears to us that your payment was successful, but we are still waiting for confirmation. You can wait on this page and we will redirect you after we received the confirmation. Or you can close this window and we will send out an order confirmation email."
+
+msgid "You can switch between the different environments, by selecting the corresponding operation mode."
+msgstr "You can switch between the different environments, by selecting the corresponding operation mode."
+
+msgid "No more details available."
+msgstr "No more details available."
+
+msgid "Capture"
+msgstr "Capturing"
+
+msgid "Alias Manager"
+msgstr "Alias Manager"
+
+msgid "This method is not available for companies"
+msgstr "This method is not available for companies"
+
+msgid "You can specify the order status when an order is cancelled."
+msgstr "You can specify the order status for cancelled orders."
+
+msgid "No authorization method found for payment method !method."
+msgstr "No authorization method found for payment method !method."
+
+msgid "Cancel Transaction"
+msgstr "Cancel Transaction"
+
+msgid "You have to enter sales tax number of your company."
+msgstr "Please enter your company's sales tax number."
+
+msgid "If activating this setting, the Payment Page uses a responsive styling. It adapts itself to the resolution of the screen."
+msgstr "By activating this setting, the Payment Page uses a responsive styling. It adjusts to the resolution of the screen."
+
+msgid "You have to enter the a card number."
+msgstr "You have to enter a card number."
+
+msgid "You have to enter the name of the account owner."
+msgstr "Please enter the name of the account owner"
+
+msgid "The identifier as defined in the backoffice of EMS eCommerce Gateway."
+msgstr "The identifier as defined in the backoffice of EMS eCommerce Gateway."
+
+msgid "Ratenkauf"
+msgstr "Instalment purchase"
+
+msgid "Could not create user."
+msgstr "Could not create user."
+
+msgid "You can only capture/refund a complete line item. (Item: !name - Expected Amount: !expected - Given Amount: !given)"
+msgstr "You can only capture/refund a complete line item. (Item: !name - Expected Amount: !expected - Given Amount: !given)"
+
+msgid "Only authorized transaction can be captured."
+msgstr "Only authorised transactions can be captured."
+
+msgid "No year set in the date of birth field."
+msgstr "No year set in the date of birth field."
+
+msgid "The given hmac key is empty."
+msgstr "No HMAC key entered."
+
+msgid "The expected format is '!format' where the 'MM' means the month number and 'YY' the year number."
+msgstr "The expected format is '!format' where the 'MM' means the month in two digits and 'YY' the year in two digits."
+
+msgid "Amount to capture"
+msgstr "Amount to capture"
+
+msgid "3d Secure Active"
+msgstr "3D Secure Active"
+
+msgid "You can choose a previous used card:"
+msgstr "You can choose a previously used card:"
+
+msgid "Which status should be set if the payment has been successfully authorised?"
+msgstr "Which status should be set if the payment has been successfully authorised?"
+
+msgid "The whole transaction is cancelled."
+msgstr "The entire transaction has been cancelled."
+
+msgid "Approval Code missing"
+msgstr "Approval code missing"
+
+msgid "Invoice Fee"
+msgstr "Invoice Fee"
+
+msgid "Show Installment information"
+msgstr "Show Installment information"
+
+msgid "Subscriptions: Add Manual Renewal"
+msgstr "Subscriptions: Add manual Renewal"
+
+msgid "The User Id who is allowed to access the API will be provided by EMS eCommerce Gateway."
+msgstr "The User ID allowed to access the API will be provided by EMS eCommerce Gateway."
+
+msgid "A captured transaction cannot be cancelled."
+msgstr "A captured transaction cannot be cancelled."
+
+msgid "3d Secure Result"
+msgstr "3d Secure Result"
+
+msgid "MoTo EMS eCommerce Gateway API User Id (Test)"
+msgstr "MoTo EMS eCommerce Gateway API User Id (Test)"
+
+msgid "Free Shipping"
+msgstr "Free Shipping"
+
+msgid "3d Secure Verification failed"
+msgstr "3D Secure verification failed"
+
+msgid "Gather solvency information through the service from Bürgel"
+msgstr "Gather solvency information through the service of Bürgel"
+
+msgid "Please enter here the card holder name on the card."
+msgstr "Please enter the card holder's name."
+
+msgid "IBAN number"
+msgstr "Bank account number (IBAN)"
+
+msgid "The authorization was not successful"
+msgstr "Authorization error. Authorization not successful."
+
+msgid "Change payment method"
+msgstr "Change payment method"
+
+msgid "Refund status"
+msgstr "Refund status"
+
+msgid "Please enter the name of your bank."
+msgstr "Please enter the name of your bank."
+
+msgid "When the store is not available (network outage, server failure or any other outage), when the feedback of EMS eCommerce Gateway is sent, then the transaction state is not updated. Hence no order confirmation e-mail is sent and the order is not in the paid state. By activating the transaction update, such transactions can be authorized later over direct link. To use this feature the update service must be activated and the API username and the API password must be set."
+msgstr "When the store is not available (network outage, server failure or any other outage), when the feedback of EMS eCommerce Gateway is sent, then the transaction state is not updated. Hence no order confirmation e-mail is sent and the order is not in the paid state. By activating the transaction update, such transactions can be authorized later over direct link. To use this feature the update service must be activated and the API username and the API password must be set."
+
+msgid "Error"
+msgstr "Error"
+
+msgid "If the status is 'Pending' it is unclear whether the transaction will be refunded successfully."
+msgstr "If the status is 'Pending' it is unclear whether the transaction will be refunded successfully."
+
+msgid "Yes, use images for the brand selection."
+msgstr "Yes, use images for the brand selection."
+
+msgid "Birthplace"
+msgstr "Place of birth"
+
+msgid "Bank Code"
+msgstr "Bank code number"
+
+msgid "You have to enter the account holder name."
+msgstr "You have to enter the account holder name."
+
+msgid "Force EMS eCommerce Gateway to send the payment notification on a non SSL secured connection"
+msgstr "Force EMS eCommerce Gateway to send the payment notification on a non SSL secured connection."
+
+msgid "Invalid Email/Username"
+msgstr "Invalid Email/Username"
+
+msgid "Directly after order"
+msgstr "Direct capturing"
+
+msgid "Show Invoice information"
+msgstr "Show Invoice information"
+
+msgid "MoTo EMS eCommerce Gateway API Password (Test)"
+msgstr "MoTo EMS eCommerce Gateway API Password (Test)"
+
+msgid "Enable/Disable"
+msgstr "Enable/Disable"
+
+msgid "Missing requried parameters"
+msgstr "Missing requried parameters"
+
+msgid "Sales Tax Number"
+msgstr "Sales Tax Number"
+
+msgid "Add manual renewal"
+msgstr "Add manual renewal"
+
+msgid "You have to enter a bankcode."
+msgstr "You have to enter a valid bank code"
+
+msgid "Please enter here the account number of your bank account."
+msgstr "Please enter here the International Bank Account Number (IBAN)."
+
+msgid "You have to enter the name of your bank."
+msgstr "You have to enter the name of your bank."
+
+msgid "Which status should be set if a problem with the authorisation has occurred? In these cases you must manually verify if the customer has been charged with the amount."
+msgstr "Which status should be set if a problem with the authorisation has occurred? In these cases you must manually verify if the customer has been charged with the amount."
+
+msgid "Transaction Captured"
+msgstr "Transaction captured"
+
+msgid "The password field was empty"
+msgstr "The password field was empty"
+
+msgid "Capture status"
+msgstr "Capture status"
+
+msgid "Validation"
+msgstr "Validation"
+
+msgid "More Details"
+msgstr "More Details"
+
+msgid "The email address field was empty"
+msgstr "The email address field was empty"
+
+msgid "Only an authorized transaction can be marked as finally declined."
+msgstr "Only authorized transactions can be marked as finally declined."
+
+msgid "Account Holder Name"
+msgstr "Account holder"
+
+msgid "Processing..."
+msgstr "Processing..."
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Partial captures/refunds of Klarna payments containing discount/coupons items cannot be created in the shop. This can only be done in the PSP backend."
+msgstr "Partial captures/refunds of Klarna payments containing discount/coupons items cannot be created in the shop. This can only be done in the PSP backend."
+
+msgid "You have to enter a valid account number"
+msgstr "You have to enter a valid account number"
+
+msgid "Please enter a phone number."
+msgstr "Please enter a phone number."
+
+msgid "Previous Actions"
+msgstr "Previous actions"
+
+msgid "Confirm email"
+msgstr "Confirm email"
+
+msgid "The capture will automatically close the transaction for further captures."
+msgstr "The capture will automatically close the transaction for further captures."
+
+msgid "Account owner name."
+msgstr "Account holder"
+
+msgid "A cancelled transaction cannot be cancelled again."
+msgstr "A cancelled transaction cannot be cancelled again."
+
+msgid "The given CVC code has the wrong length."
+msgstr "The given CVC code has the wrong length."
+
+msgid "Please select the the year of your birth."
+msgstr "Please select the the year of your birth."
+
+msgid "Please enter here the number on your card."
+msgstr "Please enter your card number."
+
+msgid "The refunding could not be conducted. Error code: !error."
+msgstr "The refund could not be conducted. Error code: !error."
+
+msgid "The MoTo API password required for the basic authorization. The password is provided by EMS eCommerce Gateway."
+msgstr "The MoTo API password required for the basic authorisation. The password is provided by EMS eCommerce Gateway."
+
+msgid "A failed authorization cannot be authorized."
+msgstr "A failed authorisation cannot be authorised."
+
+msgid "Account creation"
+msgstr "Account creation"
+
+msgid "Email / Username"
+msgstr "Email / Username"
+
+msgid "Please select"
+msgstr "Please select"
+

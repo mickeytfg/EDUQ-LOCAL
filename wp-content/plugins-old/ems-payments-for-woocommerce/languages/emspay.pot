@@ -1,0 +1,545 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ems Payments For WooCommerce 1.0.0\n"
+"POT-Creation-Date: 2017-02-23 10:36+0100\n"
+"PO-Revision-Date: 2017-01-10 00:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: DLWT\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: ../languages\n"
+
+#: abstracts/abstract-emspay-gateway.php:122
+msgid "EMS e-Commerce Gateway is not configured."
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:131
+#, php-format
+msgid "Gateway does not supports selected currency: %s."
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:136
+#, php-format
+msgid "Gateway does not supports selected checkout option: %s."
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:156
+msgid "Gateway Disabled"
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:183
+msgid ""
+"Thank you. Your order has been received. Awaiting payment, system "
+"need to confirm payment."
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:204
+msgid "Enable/Disable"
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:210
+msgid "Title"
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:212
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:217
+msgid "Description"
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:220
+msgid ""
+"This controls the description which the user sees during checkout."
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:224
+msgid "Debug Log"
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:226
+msgid "Enable logging"
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:228
+#, php-format
+msgid ""
+"Log EMS events, such as pay request, response, inside: <br><code>%s</"
+"code>"
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:328
+msgid ""
+"Thank you for your order, please click the button below to pay with "
+"your selected method."
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:345
+msgid "Payment"
+msgstr ""
+
+#: abstracts/abstract-emspay-gateway.php:463
+msgid "Invalid payment method."
+msgstr ""
+
+#: class-emspay-gateway-response.php:112
+#, php-format
+msgid "EMS payment approved (Reference number: %s)"
+msgstr ""
+
+#: class-emspay-gateway-response.php:114
+#: class-emspay-gateway-response.php:150
+msgid ""
+"Please visit the EMS virtual terminal to approve the payment for "
+"Klarna. The current order status \"proceeding\" or \"completed\" does "
+"not mean that the payment has been approved."
+msgstr ""
+
+#: class-emspay-gateway-response.php:133
+#, php-format
+msgid "EMS payment error: %s"
+msgstr ""
+
+#: class-emspay-gateway-response.php:136
+#, php-format
+msgid "Payment error: %s"
+msgstr ""
+
+#: class-emspay-gateway-response.php:148
+#, php-format
+msgid "EMS payment pending: %s"
+msgstr ""
+
+#: class-emspay-integration.php:62
+msgid "EMS e-Commerce Gateway"
+msgstr ""
+
+#: class-emspay-integration.php:105
+msgid "Environment"
+msgstr ""
+
+#: class-emspay-integration.php:108
+msgid ""
+"This setting specifies whether you will process live transactions, or "
+"whether you will process simulated transactions."
+msgstr ""
+
+#: class-emspay-integration.php:112
+msgid "Integration"
+msgstr ""
+
+#: class-emspay-integration.php:113
+msgid "Production"
+msgstr ""
+
+#: class-emspay-integration.php:117 class-emspay-integration.php:247
+msgid "Store Name (integration)"
+msgstr ""
+
+#: class-emspay-integration.php:119 class-emspay-integration.php:133
+msgid "This is the ID of the store provided by EMS."
+msgstr ""
+
+#: class-emspay-integration.php:124 class-emspay-integration.php:266
+msgid "Shared Secret (integration)"
+msgstr ""
+
+#: class-emspay-integration.php:126 class-emspay-integration.php:140
+msgid "This is the shared secret provided to you by EMS."
+msgstr ""
+
+#: class-emspay-integration.php:131 class-emspay-integration.php:252
+msgid "Store Name (production)"
+msgstr ""
+
+#: class-emspay-integration.php:138 class-emspay-integration.php:271
+msgid "Shared Secret (production)"
+msgstr ""
+
+#: class-emspay-integration.php:145
+msgid "Checkout option"
+msgstr ""
+
+#: class-emspay-integration.php:148
+msgid "This field allows you to set the checkout option."
+msgstr ""
+
+#: class-emspay-integration.php:153
+msgid "classic"
+msgstr ""
+
+#: class-emspay-integration.php:157
+msgid "combinedpage"
+msgstr ""
+
+#: class-emspay-integration.php:161
+msgid "Pay mode"
+msgstr ""
+
+#: class-emspay-integration.php:164
+msgid ""
+"Chosen mode for the transaction when using the \"classic\" checkout "
+"option"
+msgstr ""
+
+#: class-emspay-integration.php:170
+msgid "payonly"
+msgstr ""
+
+#: class-emspay-integration.php:172
+msgid "payplus"
+msgstr ""
+
+#: class-emspay-integration.php:174
+msgid "fullpay"
+msgstr ""
+
+#: class-emspay-integration.php:178
+msgid "Show gateway's icon"
+msgstr ""
+
+#: class-emspay-integration.php:180
+msgid "Show icons"
+msgstr ""
+
+#: class-emspay-integration.php:203
+msgid "Are you already a customer ?"
+msgstr ""
+
+#: class-emspay-integration.php:205
+msgid ""
+"If you are already registered as an EMS merchant then please enter "
+"the credentials and settings below."
+msgstr ""
+
+#: class-emspay-integration.php:207
+msgid ""
+"For new customers please follow the link below to acquire an EMS "
+"merchant account."
+msgstr ""
+
+#: class-emspay-integration.php:210
+msgid "Becoming an EMS customer"
+msgstr ""
+
+#: class-emspay-integration.php:212
+msgid "Get a merchant account via this link:"
+msgstr ""
+
+#: class-emspay-integration.php:216
+msgid "Contact EMS Support"
+msgstr ""
+
+#: class-emspay-integration.php:218
+msgid "Visit the FAQ:"
+msgstr ""
+
+#: class-emspay-integration.php:222
+msgid "Contact information:"
+msgstr ""
+
+#: class-emspay-integration.php:298
+#, php-format
+msgid "Error: You must enter %s."
+msgstr ""
+
+#: class-emspay-integration.php:344
+#, php-format
+msgid ""
+"Error: The %s credentials you provided are not valid.  Please double-"
+"check that you entered them correctly and try again."
+msgstr ""
+
+#: gateways/class-emspay-gateway-bancontact.php:23
+msgid "EMS Bancontact"
+msgstr ""
+
+#: gateways/class-emspay-gateway-bancontact.php:24
+msgid "Bancontact description."
+msgstr ""
+
+#: gateways/class-emspay-gateway-bancontact.php:30
+msgid "Enable Bancontact"
+msgstr ""
+
+#: gateways/class-emspay-gateway-bancontact.php:35
+msgid "Bancontact"
+msgstr ""
+
+#: gateways/class-emspay-gateway-bancontact.php:40
+msgid "Paying online with Bancontact."
+msgstr ""
+
+#: gateways/class-emspay-gateway-creditcard.php:23
+msgid "EMS Creditcard"
+msgstr ""
+
+#: gateways/class-emspay-gateway-creditcard.php:24
+msgid "Creditcard description."
+msgstr ""
+
+#: gateways/class-emspay-gateway-creditcard.php:36
+msgid "Enable Creditcard"
+msgstr ""
+
+#: gateways/class-emspay-gateway-creditcard.php:41
+msgid "Creditcard"
+msgstr ""
+
+#: gateways/class-emspay-gateway-creditcard.php:46
+msgid "Paying online with Creditcard."
+msgstr ""
+
+#: gateways/class-emspay-gateway-creditcard.php:53
+msgid "3D Secure transactions"
+msgstr ""
+
+#: gateways/class-emspay-gateway-creditcard.php:54
+msgid ""
+"Enable Secure transactions <br>(If your credit card agreement "
+"includes 3D Secure and your Merchant ID has been activated to use "
+"this service.)"
+msgstr ""
+
+#: gateways/class-emspay-gateway-creditcard.php:56
+msgid ""
+"The ability to authenticate transactions using Verified by Visa, "
+"MasterCard SecureCode."
+msgstr ""
+
+#: gateways/class-emspay-gateway-creditcard.php:66
+#: gateways/class-emspay-gateway-creditcard.php:88
+msgid "Choose Credit Card"
+msgstr ""
+
+#: gateways/class-emspay-gateway-creditcard.php:72
+msgid "Invalid Credit Card brand"
+msgstr ""
+
+#: gateways/class-emspay-gateway-creditcard.php:100
+msgid "MasterCard"
+msgstr ""
+
+#: gateways/class-emspay-gateway-creditcard.php:101
+msgid "Visa"
+msgstr ""
+
+#: gateways/class-emspay-gateway-creditcard.php:102
+msgid "Diners Club"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:31
+msgid "EMS iDEAL"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:32
+msgid "iDEAL description."
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:45
+msgid "Enable iDEAL"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:50
+msgid "iDEAL"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:57
+msgid "Show issuer bank select"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:59
+msgid "Let your customers select the issuer bank"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:67
+msgid "Paying online with iDEAL."
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:74
+#: gateways/class-emspay-gateway-ideal.php:103
+msgid "Choose your bank"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:80
+msgid "Invalid bank"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:115
+msgid "ABN AMRO"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:116
+msgid "ASN Bank"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:117
+msgid "Bunq"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:118
+msgid "ING"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:119
+msgid "Knab"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:120
+msgid "Rabobank"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:121
+msgid "RegioBank"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:122
+msgid "SNS Bank"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:123
+msgid "Triodos Bank"
+msgstr ""
+
+#: gateways/class-emspay-gateway-ideal.php:124
+msgid "van Lanschot"
+msgstr ""
+
+#: gateways/class-emspay-gateway-klarna.php:53
+msgid "EMS Klarna"
+msgstr ""
+
+#: gateways/class-emspay-gateway-klarna.php:54
+msgid "Klarna description."
+msgstr ""
+
+#: gateways/class-emspay-gateway-klarna.php:60
+msgid "Enable Klarna"
+msgstr ""
+
+#: gateways/class-emspay-gateway-klarna.php:65
+msgid "Klarna"
+msgstr ""
+
+#: gateways/class-emspay-gateway-klarna.php:70
+msgid "Paying online with Klarna."
+msgstr ""
+
+#: gateways/class-emspay-gateway-klarna.php:114
+msgid "Klarna is not available in your country."
+msgstr ""
+
+#: gateways/class-emspay-gateway-klarna.php:119
+msgid "The currency does not correspond to the country's currency."
+msgstr ""
+
+#: gateways/class-emspay-gateway-klarna.php:171
+msgid "Shipping fee"
+msgstr ""
+
+#: gateways/class-emspay-gateway-klarna.php:185
+msgid "Discount"
+msgstr ""
+
+#: gateways/class-emspay-gateway-maestro.php:22
+msgid "EMS Maestro"
+msgstr ""
+
+#: gateways/class-emspay-gateway-maestro.php:23
+msgid "Maestro description."
+msgstr ""
+
+#: gateways/class-emspay-gateway-maestro.php:29
+msgid "Enable Maestro"
+msgstr ""
+
+#: gateways/class-emspay-gateway-maestro.php:34
+#: gateways/class-emspay-gateway-maestro.php:78
+msgid "Maestro"
+msgstr ""
+
+#: gateways/class-emspay-gateway-maestro.php:39
+msgid "Paying online with Maestro."
+msgstr ""
+
+#: gateways/class-emspay-gateway-maestro.php:44
+#: gateways/class-emspay-gateway-maestro.php:66
+msgid "Choose Debit Card"
+msgstr ""
+
+#: gateways/class-emspay-gateway-maestro.php:50
+msgid "Invalid Debit Card"
+msgstr ""
+
+#: gateways/class-emspay-gateway-maestro.php:79
+msgid "Maestro UK"
+msgstr ""
+
+#: gateways/class-emspay-gateway-masterpass.php:23
+msgid "EMS Masterpass"
+msgstr ""
+
+#: gateways/class-emspay-gateway-masterpass.php:24
+msgid "Masterpass description."
+msgstr ""
+
+#: gateways/class-emspay-gateway-masterpass.php:30
+msgid "Enable Masterpass"
+msgstr ""
+
+#: gateways/class-emspay-gateway-masterpass.php:35
+msgid "Masterpass"
+msgstr ""
+
+#: gateways/class-emspay-gateway-masterpass.php:40
+msgid "Paying online with Masterpass."
+msgstr ""
+
+#: gateways/class-emspay-gateway-paypal.php:45
+msgid "EMS Paypal"
+msgstr ""
+
+#: gateways/class-emspay-gateway-paypal.php:46
+msgid "Paypal description."
+msgstr ""
+
+#: gateways/class-emspay-gateway-paypal.php:52
+msgid "Enable Paypal"
+msgstr ""
+
+#: gateways/class-emspay-gateway-paypal.php:57
+msgid "Paypal"
+msgstr ""
+
+#: gateways/class-emspay-gateway-paypal.php:62
+msgid "Paying online with Paypal."
+msgstr ""
+
+#: gateways/class-emspay-gateway-sofort.php:23
+msgid "EMS Sofort"
+msgstr ""
+
+#: gateways/class-emspay-gateway-sofort.php:24
+msgid "Sofort description."
+msgstr ""
+
+#: gateways/class-emspay-gateway-sofort.php:30
+msgid "Enable Sofort"
+msgstr ""
+
+#: gateways/class-emspay-gateway-sofort.php:35
+msgid "Sofort"
+msgstr ""
+
+#: gateways/class-emspay-gateway-sofort.php:40
+msgid "Paying online with Sofort."
+msgstr ""
